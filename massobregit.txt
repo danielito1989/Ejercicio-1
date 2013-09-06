@@ -1,0 +1,1 @@
+'Una vez te asegures que git esta funcionando es el momento de asignas las variables globales. Estas son unas variables que se le asignan a todos los repositorios que creas. Es importante mencionar que estas variables se pueden cambiar a proyectos por individual. Para configurar el nombre y correo electr¢nico hacemos lo siguiente.' 
