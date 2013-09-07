@@ -1,0 +1,2 @@
+Hacer cambios
+Ahora la parte mas importante como hacer cambios a los archivos y hacer nuevos “commits”. Para ver el status del repositorio puedes hacer:
