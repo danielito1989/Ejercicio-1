@@ -1,0 +1,17 @@
+ <table width="958" height="815" border="5" bordercolor="#9AA6BF">
+    <tr bordercolor="#9AA6BF" >
+      <td width="50%" height="811"><table width="100%" height="54%" border="1" bordercolor="#9AA6BF">
+        <tr >
+          <td height="35" bordercolor="#9AA6BF" bgcolor="#9AA6BF"><div align="center" class="Estilo23">Proximos Partidos </div></td>
+        </tr>
+        <tr>
+          <td height="764" bordercolor="#9AA6BF" background="images.jpg">&nbsp;</td>
+        </tr>
+      </table></td>
+    </tr>
+  </table>
+  <table width="958" border="1" bordercolor="#9AA6BF">
+    <tr>
+      <td><div align="center"><span class="Estilo4"><a href="formulario.php" class="Estilo23">Contacto</a> | Todos los Derechos Reservados &copy; 2012 <span class="Estilo5">| &nbsp;<span class="Estilo9">Dise&ntilde;ado por Daniel Cornejo</span></span></span></div></td>
+    </tr>
+  </table>
