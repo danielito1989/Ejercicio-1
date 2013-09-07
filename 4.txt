@@ -1,0 +1,10 @@
+
+  window.mm_menu_1125002108_0 = new Menu("root",113,18,"Arial, Helvetica, sans-serif",12,"#FFFFFF","#FF0000","#000000","#9AA6BF","center","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+  mm_menu_1125002108_0.addMenuItem("AMARILLAS","location='amarillas.php'");
+  mm_menu_1125002108_0.addMenuItem("ROJAS","location='rojas.php'");
+   mm_menu_1125002108_0.fontWeight="bold";
+   mm_menu_1125002108_0.hideOnMouseOut=true;
+   mm_menu_1125002108_0.bgColor='#555555';
+   mm_menu_1125002108_0.menuBorder=1;
+   mm_menu_1125002108_0.menuLiteBgColor='#FFFFFF';
+   mm_menu_1125002108_0.menuBorderBgColor='#777777';
