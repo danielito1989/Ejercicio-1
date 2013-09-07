@@ -1,0 +1,1 @@
+En este punto me gusta crear un file que se llama .gitignore que es una lista de los files que git debe ignorar. Aquí solo voy a decirle a git que ignore un solo tipo de archivo los que se llamen .DS_Strore que Mac OS pone en todos los directorios. Este file (.gitignore) lo puedes crear en cualquier aplicación pero en este ejemplo lo voy a hacer usando el command line.
