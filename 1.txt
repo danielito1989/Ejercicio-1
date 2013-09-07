@@ -1,0 +1,37 @@
+<script language="JavaScript" src="mm_menu.js"></script>
+<body background bgcolor="#333333">
+<script language="JavaScript1.2">mmLoadMenus();</script>
+<center>
+  <table width="941" height="150" border="5" bordercolor="#9AA6BF">
+    <tr bordercolor="#9AA6BF">
+      <td width="941"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="940" height="136" title="banner">
+        <param name="movie" value="Banner1.swf" />
+        <param name="quality" value="high" />
+        <embed src="Banner1.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="940" height="136"></embed>
+      </object></td>
+    </tr>
+  </table>
+  <table width="958" border="1" bordercolor="#9AA6BF">
+    <tr bordercolor="#333333" bgcolor="#000000">
+      <td width="57" bordercolor="#333333"><div align="center" class="Estilo12">
+        <div align="center"><span class="Estilo1"><a href="index.php" class="Estilo22">INICIO</a></span></div>
+      </div></td>
+      <td width="83"><div align="center" class="Estilo12">
+        <div align="center" class="Estilo1"><font color="#FFFFFF"><span class="Estilo19"><a href="equipos.php" class="Estilo22">EQUIPOS</a></span></div>
+      </div></td>
+      <td width="122"><div align="center" class="Estilo12">
+        <div align="center"><span class="Estilo1"><a href="resultados.php" class="Estilo22">RESULTADOS</a></span></div>
+      </div></td>
+      <td width="127"><div align="center" class="Estilo12">
+        <div align="center"><span class="Estilo4"><a href="goleadores.php" class="Estilo22">GOLEADORES</a></span></div>
+      </div></td>
+      <td width="114"><div align="center" class="Estilo12">
+        <div align="center"><span class="Estilo1"><a name="link1" class="Estilo22" id="link3" onclick="MM_showMenu(window.mm_menu_1121234421_0,0,16,null,'link2')" onmouseover="MM_showMenu(window.mm_menu_1125002108_0,0,16,null,'link1')" onmouseout="MM_startTimeout();" link="">TARJETAS</a></span></div>
+      </div></td>
+      <td width="168" class="ellink"><div align="center" class="Estilo4">
+        <div align="center" class="Estilo21"><a href="proxpartidos.php" class="Estilo22">PROXIMOS PARTIDOS </a></div>
+      </div></td>
+      <td width="124" bgcolor="#000000"><div align="center" class="Estilo12">
+        <div align="center" ><a href="bases.php" class="Estilo22">BASES TORNEO </a></div>
+      </div></td>
+      <td width="111"><div align="center" class="Estilo1
